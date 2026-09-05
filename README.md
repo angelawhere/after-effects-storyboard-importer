@@ -60,7 +60,7 @@ var SETTINGS = {
 
 Panel centres are in reading order, matching your template's coordinate space. Find them by drawing a rectangle over each panel in Illustrator or Photoshop and reading the centre position and dimensions from the transform properties.
 
-If you measured coordinates at 72 dpi, leave templateDpi at 72. If you're exporting at 300 dpi in Illustrator, keep your AI coordinates as measured and set this to 300 - the script scales them up automatically.
+If you measured coordinates at 72 dpi, leave templateDpi at 72. If you're exporting at 300 dpi in Illustrator, keep your AI coordinates as measured and set this to 300.
 
 If your panel ratio differs from your comp ratio, the script scales each page so the panel height fills the comp height.
 
