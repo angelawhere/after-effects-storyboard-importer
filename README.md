@@ -26,7 +26,7 @@ To enable scripting: in AE go to Edit > Preferences > Scripting & Expressions an
 
 If you're using the provided template (1920x1080 panels, 1920x1080 comp), no changes to the script are needed.
 
-1. Draw your boards on the template, one page at a time
+1. Draw your boards on the template, page by page
 2. Export as PNG or JPEG, named in order: p01.png, p02.png, etc.
 3. Put all pages in one folder, named after your scene (SC01, Sc_opening, etc.)
 4. In AE: File > Scripts > Run Script File > ae_storyboard_importer.jsx
