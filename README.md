@@ -68,7 +68,7 @@ If your panel ratio differs from your comp ratio, the script scales each page so
 
 Organise your PSD so each page is a separate top-level folder, named in order (p01, p02, etc.). Layers outside folders stay untouched. Hide any layers you don't want exported before running.
 
-Run via File > Scripts > Browse > `ps_storyboard_exporter.jsx`. Select an output folder. One PNG is exported per page. You'll be prompted before any existing files are overwritten.
+Run via File > Scripts > Browse > `ps_storyboard_exporter.jsx`. Select an output folder. One PNG is exported per PSD folder. You'll be prompted before any existing files are overwritten.
 
 ## Troubleshooting
 
